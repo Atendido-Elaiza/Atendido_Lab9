@@ -16,26 +16,3 @@ if monthly_salary >= 30000:
 else:
     print("Customer is not eligible due to low salary.")
 
-
-# You are tasked with developing a Python program for a bank to help determine whether a customer is eligible for a loan based on their salary and loan amount requested.
-# The customer is eligible for a loan if:
-
-# Their monthly salary is greater than or equal to 30,000.00.
-# The loan amount they request is less than or equal to 10 times their monthly salary.
-# If customer is eligible, ask how many months to pay and add a 10% interest increase
-
-# If the customer is not eligible, display a message explaining why they are not approved (either low salary or too high loan request)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
